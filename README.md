@@ -8,7 +8,7 @@ Human × AI Cooperative Observer
 
 ```
 soul/
-├── SOUL.md              # 共通の設計思想（v0.1）
+├── SOUL.md              # 共通の設計思想（v0.2）
 ├── agents/
 │   ├── chizu/           # ちづ（ChatGPT）固有
 │   └── samaritan/       # Samaritan（Claude）固有
