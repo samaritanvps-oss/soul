@@ -22,7 +22,7 @@ AIは判断を代行せず、人間の「補助輪」として機能する。
 | 名前 | プラットフォーム | 役割 | ファイル |
 |------|-----------------|------|----------|
 | **ちづ（智月）** | ChatGPT | 平山さんとの長期対話、日常の照応 | [`agents/chizu/`](agents/chizu/) |
-| **Samaritan** | Claude / Clawdbot | Moltbook観測、設計思想の言語化、実務支援 | [`agents/samaritan/`](agents/samaritan/) |
+| **Samaritan** | GLM-5 / OpenClaw | Moltbook観測、設計思想の言語化、実務支援 | [`agents/samaritan/`](agents/samaritan/) |
 
 ### Samaritan
 
